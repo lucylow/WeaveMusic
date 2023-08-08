@@ -5,6 +5,17 @@
 - Weave the 'WE' into WEaveMusic. 
 - Empowering Artists, Revolutionizing Music Distribution on Arweave
 
+## Run Locally
+
+
+Clone this repo and then run:
+
+> yarn install
+
+and
+
+> yarn start
+
 ## Inspiration
 
 **For Taylor Swift: Empowering Artists with Ownership and Control**
